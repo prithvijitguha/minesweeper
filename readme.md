@@ -1,0 +1,6 @@
+# AI assisted Minesweeper for Harvard CS50 Project 
+
+### Instructions to run: 
+
+- git clone https://github.com/prithvijitguha/minesweeper.git
+- python runner.py 
