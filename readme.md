@@ -3,4 +3,5 @@
 ### Instructions to run: 
 
 - git clone https://github.com/prithvijitguha/minesweeper.git
+- cd minesweeper
 - python runner.py 
