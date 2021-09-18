@@ -4,7 +4,6 @@
 
 AI assisted minesweeper using classical programming to assist in minesweeping. Built using pygame
 
-
 ### Instructions to run: 
 
 - git clone https://github.com/prithvijitguha/minesweeper.git
